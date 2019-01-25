@@ -37,6 +37,6 @@
     "typescript": "^3.2.4"
   },
   "dependencies": {
-    "@beenotung/tslib": "^13.1.0"
+    "@beenotung/tslib": "^13.1.1"
   }
 }
